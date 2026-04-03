@@ -205,3 +205,15 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+
+# Python & Jupyter Notebooks
+__pycache__/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints
+.env
+venv/
+env/
+.vscode/
+.idea/
